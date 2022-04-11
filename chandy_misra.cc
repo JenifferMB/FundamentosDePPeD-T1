@@ -1,3 +1,5 @@
+/* http://marcial.larces.uece.br/cursos/programacao-concorrente-e-paralela-2019-2/problema-do-bar-dos-filosofos */
+
 #include <array>
 #include <mutex>
 #include <thread>
